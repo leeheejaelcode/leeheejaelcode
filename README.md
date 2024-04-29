@@ -1,5 +1,13 @@
-### Hi there 👋
+## Frontend Developer
 
+```html
+   <main id="about">
+      <p id="name">이희재</p>
+      <p id="email">145156@naver.com</p>
+      <p id="phone">010-4143-7785</p>
+   </main>
+```
+            
 <!--
 **leeheejaelcode/leeheejaelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
