@@ -7,7 +7,8 @@
       <p id="phone">010-4143-7785</p>
    </main>
 ```
-            
+notion : <https://lcodekr.notion.site/Study-91c5c44563794fcabe35c1bf71394f77>
+           
 <!--
 **leeheejaelcode/leeheejaelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
