@@ -3,7 +3,7 @@
 ```html
    <main id="about">
       <p id="name">이희재</p>
-      <p id="email">145156@naver.com</p>
+      <p id="email">1451561@naver.com</p>
       <p id="phone">010-4143-7785</p>
    </main>
 ```
