@@ -10,7 +10,7 @@
 notion : <https://lcodekr.notion.site/Study-91c5c44563794fcabe35c1bf71394f77>
 
 
-           ![](./profile-3d-contrib/profile-green-animate.svg)
+           ![profile-3d-contrib/profile-night-green.svg](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **leeheejaelcode/leeheejaelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
